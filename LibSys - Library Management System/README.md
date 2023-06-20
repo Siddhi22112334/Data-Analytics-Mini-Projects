@@ -128,7 +128,7 @@ Returning a damaged book
 
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/331d1917-56d7-4696-a17e-91d48ff1895e)
 
-error handling and exit
+Error handling and exit
 
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/9740877b-cd7f-43ed-a9da-d16426b2ca0b)
 
